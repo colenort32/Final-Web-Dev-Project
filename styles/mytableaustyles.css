@@ -1,0 +1,86 @@
+/* Cole Norton */
+head{
+    padding-top: 100em;
+
+}
+
+body {
+    background-color: rgb(228, 183, 124);
+
+    padding-bottom: 4.5em;
+    text-align: center;
+}
+
+h1
+{
+    color: white;
+    font: courier;
+    text-align: center
+}
+
+
+div
+{
+  width: 100% ;
+
+}
+.tableauPlaceholder { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+
+
+}
+
+p {
+    color: white;
+    font: courier;
+    font-size: 16px;
+
+
+
+}
+h2 {
+color: rgb(228, 183, 124);;
+font-size: 80px;
+}
+
+span
+{
+    color: rgb(173, 167, 167);
+    font: italic;
+    font-size: 20px;
+}
+
+
+.navbar {
+    font: courier;
+    overflow: hidden;
+  }
+  
+ 
+  .navbar a {
+    float: right;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+  }
+  
+  
+  .navbar a:hover {
+    background-color: white;
+    color: black;
+    
+  }
+  
+  
+  .navbar a.active {
+    color: white;
+    
+  }
+  

@@ -1,0 +1,52 @@
+/*Cole Norton*/
+header.masthead
+{ 
+    background-color:rgb(155, 202, 204)
+    
+    
+}
+body
+   {
+    
+      background-image: url("../images/IMG_6257.JPG");
+    
+    
+    
+
+   }
+
+
+  
+   h2   
+     {
+         color:rgb(155, 202, 204);
+
+   
+     }
+
+     h1
+     {
+        font-size: medium;
+
+
+     }
+  
+   .post-meta
+   {
+        color:cornsilk
+
+   }
+
+   div 
+   {
+        padding-bottom: 0.25em;
+
+   }
+
+   
+   
+
+     
+   
+
+
